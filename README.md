@@ -1,4 +1,4 @@
-#**CS50 PSet0: Beetle Ball**  
+#**CS50x PSet0: Beetle Ball**  
 **Status**: Completed✅ ┃ Score: 8/8 on check50  
 
 ###**🎮Play the game**  
@@ -7,7 +7,7 @@
 ###**📝Description**  
 Control a beetle by up and down arrow keys to dodge the coming balls. Score keeps increasing till u die.  
 
-###**🧠CS50 Concepts used**  
+###**🧠CS50x Concepts used**  
 -Events: When green flag clicked, when up and down arrow keys pressed, when play button clicked  
 -Loops: Forever loop for game movement, ball spawning  
 -Conditionals:If beetle touches ball then game over  
@@ -19,4 +19,4 @@ Control a beetle by up and down arrow keys to dodge the coming balls. Score keep
 ![Gameplay](screenshot.png)
 
 _ _ _
-Built for Harvard CS50 Week 0
+Built for Harvard CS50x Week 0
